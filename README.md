@@ -1,9 +1,10 @@
-<h1 align="center">Edvinas</h1>
 <h3 align="center">Senior Backend Engineer • Startup Delivery • Software Architect</h3>
 
 <p align="center">
-I help startups and small teams ship faster by stabilizing backend systems,
-improving delivery flow, and designing scalable, evolutionary architectures
+  <samp>
+    I help startups and small teams ship faster by stabilizing backend systems,
+    improving delivery flow, and designing scalable, evolutionary architectures
+  </samp>
 </p>
 
 <table align="center">
