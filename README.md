@@ -1,4 +1,4 @@
-<h3 align="center">Senior Backend Engineer • Startup Delivery • Software Architect</h3>
+<h3 align="center">Senior Software Engineer • Startup Delivery • Software Architect</h3>
 
 <p align="center">
   <samp>
