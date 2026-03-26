@@ -6,7 +6,12 @@ on:
       - main
     paths:
       - "config.yaml"
+      - "config.py"
       - "build.py"
+      - "test_build.py"
+      - "pyproject.toml"
+      - "uv.lock"
+      - ".python-version"
   workflow_dispatch:
 
 jobs:
