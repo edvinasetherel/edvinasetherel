@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edvinas-sadlevicius/">LinkedIn</a>&emsp;•&emsp;<a href="mailto:edvinas.sa@pm.me">Email</a>
+  <a href="https://www.linkedin.com/in/edvinas-sadlevicius/">LinkedIn</a>&emsp;•&emsp;<a href="mailto:edvinas@etherel.eu">Email</a>
 </p>
